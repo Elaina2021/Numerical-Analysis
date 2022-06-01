@@ -1,4 +1,5 @@
 # Numerical-Analysis
+## Codes for Question 1 and 2 are in `Question_1` and `Question_2` respectively
 ## Multiple Linear Regression method
 Just run `Multiple_Linear_Regression.py`.  
 You can run `predict.py` to predict the `Marks` by using the MLR method with best parameters. Have fun!  
